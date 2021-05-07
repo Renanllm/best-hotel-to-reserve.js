@@ -1,4 +1,4 @@
-Nearly empty javascript project with a failing test!
+This project was created for solve a interview test
 ===
 
 To install the required modules:
